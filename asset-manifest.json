@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AntoninaHN/static/css/main.7acaea2f.css",
+    "main.js": "/AntoninaHN/static/js/main.7d2274e5.js",
+    "static/js/787.6b7abe35.chunk.js": "/AntoninaHN/static/js/787.6b7abe35.chunk.js",
+    "index.html": "/AntoninaHN/index.html",
+    "main.7acaea2f.css.map": "/AntoninaHN/static/css/main.7acaea2f.css.map",
+    "main.7d2274e5.js.map": "/AntoninaHN/static/js/main.7d2274e5.js.map",
+    "787.6b7abe35.chunk.js.map": "/AntoninaHN/static/js/787.6b7abe35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.7d2274e5.js"
+  ]
+}
