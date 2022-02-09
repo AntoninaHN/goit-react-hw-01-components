@@ -26,3 +26,9 @@ Statistics.prototype = {
 };
 
 export default Statistics;
+
+// title: PropTypes.string.isRequired - если он обязателен, то почему в компоненте у тебя написано:
+
+// {title && <h2 className={styles.title}>{title}</h2>}
+
+// проп stats не должен быть обязательным, потому что у тебя уже есть defaultProps для него. Сначала выполняются defaultProps, а потом проверка через propTypes. То есть если stats не передали, то он будет установлен в [], и потому isRequired не нужен.
