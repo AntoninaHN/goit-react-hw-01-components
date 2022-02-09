@@ -29,9 +29,9 @@ function Profile({ username, tag, location, avatar, stats }) {
   );
 }
 
-Profile.defaultProps = {
-  stats: [],
-};
+// Profile.defaultProps = {
+//   stats: [],
+// };
 
 Profile.propTypes = {
   username: PropTypes.string.isRequired,
@@ -42,7 +42,7 @@ Profile.propTypes = {
     followers: PropTypes.number.isRequired,
     views: PropTypes.number.isRequired,
     likes: PropTypes.number.isRequired,
-  }),
+  }).isRequired,
 };
 
 export default Profile;
