@@ -19,13 +19,13 @@ FriendsList.defaultProps = {
 };
 
 FriendsList.propTypes = {
-  friend: PropTypes.arrayOf(
+  friends: PropTypes.arrayOf(
     PropTypes.shape({
-      key: PropTypes.number.isRequired,
+      id: PropTypes.number.isRequired,
       avatar: PropTypes.string.isRequired,
       name: PropTypes.string.isRequired,
       isOnline: PropTypes.bool.isRequired,
-    }).isRequired
+    })
   ),
 };
 export default FriendsList;

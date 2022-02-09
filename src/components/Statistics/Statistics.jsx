@@ -27,8 +27,8 @@ Statistics.prototype = {
       id: PropTypes.string.isRequired,
       label: PropTypes.string.isRequired,
       percentage: PropTypes.string.isRequired,
-    }).isRequired
-  ).isRequired,
+    })
+  ),
 };
 
 export default Statistics;

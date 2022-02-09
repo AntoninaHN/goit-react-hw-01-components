@@ -29,6 +29,10 @@ function Profile({ username, tag, location, avatar, stats }) {
   );
 }
 
+Profile.defaultProps = {
+  stats: [],
+};
+
 Profile.propTypes = {
   username: PropTypes.string.isRequired,
   tag: PropTypes.string.isRequired,
