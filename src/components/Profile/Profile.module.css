@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100;400;500;600;700;900&family=Roboto&display=swap');
+ul {
+  list-style: none;
+}
+.profile {
+  width: 300px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  margin: 50px auto 50px auto;
+  padding: 30px 10px 20px 10px;
+  font-family: 'Libre Franklin', sans-serif;
+}
+.avatar {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  width: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-color: #e9e9f2;
+}
+.description {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.name {
+  /* font-family: 'Roboto', sans-serif; */
+  font-size: 20px;
+  font-weight: 500;
+  font-family: 'Libre Franklin', sans-serif;
+}
+.stats {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 10px 0;
+  width: 90px;
+}
+.stats li {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 0;
+  width: 90px;
+  margin-left: 35px;
+  font-family: 'Libre Franklin', sans-serif;
+}

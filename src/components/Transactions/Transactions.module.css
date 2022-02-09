@@ -1,0 +1,25 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100;400;500;600;700;900&family=Roboto&display=swap'); */
+.transactions {
+  width: 1000px;
+  margin: 0 auto 0 auto;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid #e9e9f2;
+}
+.table {
+  background-color: #bada55;
+}
+.table th {
+  padding: 20px 10px 20px 10px;
+  color: rgb(37, 37, 45);
+  border: 1px solid #e9e9f2;
+}
+
+.item {
+  text-align: center;
+  font-size: 16px;
+  font-family: 'Libre Franklin', sans-serif;
+}
+.item td {
+  padding: 12px 3px;
+  border: 1px solid #e9e9f2;
+}
