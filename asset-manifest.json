@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AntoninaHN/static/css/main.e900c658.css",
-    "main.js": "/AntoninaHN/static/js/main.e0ac9a85.js",
-    "static/js/787.6b7abe35.chunk.js": "/AntoninaHN/static/js/787.6b7abe35.chunk.js",
-    "index.html": "/AntoninaHN/index.html",
-    "main.e900c658.css.map": "/AntoninaHN/static/css/main.e900c658.css.map",
-    "main.e0ac9a85.js.map": "/AntoninaHN/static/js/main.e0ac9a85.js.map",
-    "787.6b7abe35.chunk.js.map": "/AntoninaHN/static/js/787.6b7abe35.chunk.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.e900c658.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.d1db51f8.js",
+    "static/js/787.6b7abe35.chunk.js": "/goit-react-hw-01-components/static/js/787.6b7abe35.chunk.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.e900c658.css.map": "/goit-react-hw-01-components/static/css/main.e900c658.css.map",
+    "main.d1db51f8.js.map": "/goit-react-hw-01-components/static/js/main.d1db51f8.js.map",
+    "787.6b7abe35.chunk.js.map": "/goit-react-hw-01-components/static/js/787.6b7abe35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e900c658.css",
-    "static/js/main.e0ac9a85.js"
+    "static/js/main.d1db51f8.js"
   ]
 }
