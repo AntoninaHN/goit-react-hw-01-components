@@ -1,6 +1,6 @@
 import styles from './Friends.module.css';
 import PropTypes from 'prop-types';
-import FriendItem from './FriendList';
+import FriendItem from './FriendItem';
 
 function FriendsList({ friends }) {
   const friend = friends.map(friend => (
